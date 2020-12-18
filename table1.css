@@ -1,0 +1,157 @@
+.frame{
+  width: 500px;
+  height: 500px;
+  border: 5px solid black;
+  box-sizing: border-box;
+
+  
+}
+.squareblue {
+	  position: absolute;
+  height: 500px;
+  width: 5px;
+  left: 545px;
+  margin-top: 0px;
+  background-color: #555;
+}
+.squarered{
+	  position: absolute;
+  height: 500px;
+  width: 5px;
+  left: 710px;
+  margin-top: 0px;
+  background-color: #555;
+}
+.square1rtvere{
+	  position: absolute;
+  height: 5px;
+  width: 500px;
+  left: 380px;
+  margin-top: 160px;
+  background-color: #555;
+}
+.square2rtvare{
+	  position: absolute;
+  height: 5px;
+  width: 500px;
+  left: 380px;
+  margin-top:  340px;
+  background-color: #555;
+}
+.squarebrown{
+	  position: absolute;
+  height: 150px;
+  width: 162px;
+  left: 384px;
+  margin-top:  345px;
+  background-color: #D2691E;
+}
+.squareyellow{
+	  position: absolute;
+  height: 150px;
+  width: 162px;
+  left: 550px;
+  margin-top:  345px;
+  background-color: 	#FFFF00;
+}
+.squareblue1{
+	  position: absolute;
+  height: 150px;
+  width: 162px;
+  left: 715px;
+  margin-top:  345px;
+  background-color:#00FFFF;
+}
+.squarered1{
+	  position: absolute;
+  height: 175px;
+  width: 162px;
+  left: 715px;
+  margin-top:  165px;
+  background-color:#FF0000;
+}
+.squarepink{
+	  position: absolute;
+  height: 175px;
+  width: 162px;
+  left: 550px;
+  margin-top:  165px;
+  background-color:	#FFC0CB;
+}
+.squareviolet{
+	  position: absolute;
+  height: 175px;
+  width: 162px;
+  left: 383px;
+  margin-top:  165px;
+  background-color:#EE82EE;
+}
+.squaregreen{
+	  position: absolute;
+  height: 157px;
+  width: 162px;
+  left: 383px;
+  margin-top:  3px;
+  background-color:	#008000;
+}
+.squarecyan{
+	  position: absolute;
+  height: 157px;
+  width: 162px;
+  left: 550px;
+  margin-top:  3px;
+  background-color:	#7fffd4;
+}
+.squarerosegold{
+	  position: absolute;
+  height: 157px;
+  width: 162px;
+  left: 715px;
+  margin-top:  3px;
+  background-color:	#b76e79;
+}
+
+
+.frame {
+	 position: absolute;
+	 height:500px;
+  width: 500px;
+  border: 5px solid black;
+  left:380px;
+  padding: 50px;
+
+}
+
+
+.squarerosegold:active{
+    background-color:red;
+}
+.squarecyan:active {
+    background-color:blue;
+}
+.squaregreen:active {
+    background-color:violet;
+}
+.squareviolet:active{
+    background-color:green;
+}
+.squarepink:active {
+    background-color:brown;
+}
+.squarered1:active {
+    background-color:yellow;
+}
+.squareblue1:active {
+    background-color:pink;
+}
+.squareyellow:active{
+    background-color:cyan;
+}
+.squarebrown:active {
+    background-color:green;
+}
+
+
+body {
+  background-color: lightblue;
+}
